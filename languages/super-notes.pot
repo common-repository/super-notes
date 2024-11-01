@@ -1,0 +1,1172 @@
+# Copyright (C) 2019 Super Notes
+# This file is distributed under the same license as the Super Notes package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Super Notes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: We Do Plugins\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: classes/class-wdpsn-config.php:136, classes/class-wdpsn-postnotessummary.php:29, classes/class-wdpsn-welcomepage.php:28, classes/class-wdpsn-welcomepage.php:67
+msgid "Super Notes"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:137
+msgid "Global notes"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:138, classes/class-wdpsn-metaboxbuilder.php:557
+msgid "Please wait..."
+msgstr ""
+
+#: classes/class-wdpsn-config.php:139
+msgid "Please confirm deletion"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:140
+msgid "Please select the action"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:141
+msgid "Apply"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:142
+msgid "Yes, overwrite current Note Type"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:143
+msgid "Since you use free plugin version, you can use only one Note Type on your website, and there's already one Note Type added."
+msgstr ""
+
+#: classes/class-wdpsn-config.php:144
+msgid "While installing dummy data, this Note Type will be overwritten by the default one - please confirm if you want to continue."
+msgstr ""
+
+#: classes/class-wdpsn-config.php:145, classes/class-wdpsn-welcomepage.php:168
+msgid "Install now"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:146
+msgid "Install again"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:147
+msgid "Something went wrong, please try again."
+msgstr ""
+
+#: classes/class-wdpsn-config.php:148
+msgid "Dummy data correctly installed!"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:149
+msgid "Text"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:150
+msgid "Visual"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:151
+msgid "Loading..."
+msgstr ""
+
+#: classes/class-wdpsn-config.php:152
+msgid "Please wait a second"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:153, classes/notes-popup/template-error.php:15
+msgid "Something went wrong!"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:154
+msgid "An unexpected error occurred, please try again."
+msgstr ""
+
+#: classes/class-wdpsn-config.php:155, classes/notes-popup/template-error.php:20
+msgid "Unexpecter error appeared, please try again later."
+msgstr ""
+
+#: classes/class-wdpsn-config.php:156
+msgid "Note successfully updated!"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:157, classes/class-wdpsn-singlenotes.php:542
+msgid "There's no any notes yet."
+msgstr ""
+
+#: classes/class-wdpsn-config.php:158
+msgid "Note has been removed."
+msgstr ""
+
+#: classes/class-wdpsn-config.php:159, classes/class-wdpsn-popupcontent.php:135
+msgid "-- Please wait... --"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:160, classes/class-wdpsn-metaboxbuilder.php:581, classes/class-wdpsn-metaboxbuilder.php:606
+msgid "User role"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:161, classes/class-wdpsn-metaboxbuilder.php:582, classes/class-wdpsn-metaboxbuilder.php:607
+msgid "User"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:162, classes/class-wdpsn-metaboxbuilder.php:618
+msgid "is equal to"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:163, classes/class-wdpsn-metaboxbuilder.php:619
+msgid "is not equal to"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:164, classes/class-wdpsn-metaboxbuilder.php:351, classes/class-wdpsn-metaboxbuilder.php:375, classes/class-wdpsn-metaboxbuilder.php:383
+msgid "And"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:165, classes/class-wdpsn-metaboxbuilder.php:364
+msgid "or"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:166, classes/class-wdpsn-metaboxbuilder.php:588
+msgid "Post type"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:167, classes/class-wdpsn-metaboxbuilder.php:589
+msgid "Posts"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:168, classes/class-wdpsn-metaboxbuilder.php:590
+msgid "Post"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:169, classes/class-wdpsn-metaboxbuilder.php:591
+msgid "Post status"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:170, classes/class-wdpsn-metaboxbuilder.php:592
+msgid "Post format"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:171, classes/class-wdpsn-metaboxbuilder.php:593
+msgid "Post taxonomy"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:172, classes/class-wdpsn-metaboxbuilder.php:594
+msgid "Post author"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:173, classes/class-wdpsn-metaboxbuilder.php:595
+msgid "Post author role"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:174, classes/class-wdpsn-metaboxbuilder.php:597
+msgid "Pages"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:175, classes/class-wdpsn-metaboxbuilder.php:598
+msgid "Page"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:176, classes/class-wdpsn-metaboxbuilder.php:599
+msgid "Page template"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:177, classes/class-wdpsn-metaboxbuilder.php:600
+msgid "Page type"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:178, classes/class-wdpsn-metaboxbuilder.php:601
+msgid "Page ancestor"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:179, classes/class-wdpsn-metaboxbuilder.php:602
+msgid "Page parent"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:180, classes/class-wdpsn-metaboxbuilder.php:604
+msgid "Other"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:181, classes/class-wdpsn-metaboxbuilder.php:605
+msgid "Taxonomy term"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:182, classes/class-wdpsn-metaboxbuilder.php:608
+msgid "Plugin"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:183, classes/class-wdpsn-metaboxbuilder.php:609
+msgid "Special location"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:184, classes/class-wdpsn-metaboxbuilder.php:394
+msgid "Calculating..."
+msgstr ""
+
+#: classes/class-wdpsn-config.php:192, classes/class-wdpsn-popupcontent.php:117
+msgid "-- Choose tag --"
+msgstr ""
+
+#: classes/class-wdpsn-config.php:193
+msgid "-- All available tags has been added --"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:68
+msgid "post type:"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:136
+msgid "Password protected"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:137
+msgid "Scheduled"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:138
+msgid "Sticky"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:139
+msgid "In trash"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:148
+msgid "Front page"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:149
+msgid "Posts page"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:150
+msgid "Top level page"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:151
+msgid "Parent page (has children)"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:152
+msgid "Child page (has parent)"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:159
+msgid "Global"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:160
+msgid "Plugins page"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:287
+msgid "Default template"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:327
+msgid "None found..."
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:906
+msgid "For <strong>Global</strong> location"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:919
+msgid "For"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:928
+msgid "For Page:"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:937
+msgid "For User:"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:946
+msgid "For Category:"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:955
+msgid "For Tag:"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:966
+msgid "For Plugin:"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:975
+msgid "For Attachment:"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:1000, classes/class-wdpsn-history.php:85, classes/class-wdpsn-tags.php:46
+msgid "Deleted"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:1095
+msgid "Unlock more features!"
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:1096
+msgid "Upgrade to premium version to add tags to notes, create unlimited Note Types, get premium support and enable Owners and Viewers notifications about notes changes."
+msgstr ""
+
+#: classes/class-wdpsn-helper.php:1097
+msgid "Upgrade now!"
+msgstr ""
+
+#: classes/class-wdpsn-history.php:73
+msgid "ago"
+msgstr ""
+
+#: classes/class-wdpsn-holder.php:52, classes/class-wdpsn-posttypes.php:44
+msgid "Notes"
+msgstr ""
+
+#: classes/class-wdpsn-holder.php:258
+msgid "Show"
+msgstr ""
+
+#: classes/class-wdpsn-locationmetabox.php:23
+msgid "Location - where notes of this type should be visible?"
+msgstr ""
+
+#: classes/class-wdpsn-locationmetabox.php:76
+msgid "Everywhere where possible?"
+msgstr ""
+
+#: classes/class-wdpsn-locationmetabox.php:77
+msgid "Should notes of this type be visible everywhere where possible?"
+msgstr ""
+
+#: classes/class-wdpsn-locationmetabox.php:81
+msgid "Yes, notes of this type should be visible everywhere where possible"
+msgstr ""
+
+#: classes/class-wdpsn-locationmetabox.php:82, classes/class-wdpsn-tagmoderatorsmetabox.php:104
+msgid "No, I want to set custom rules for that"
+msgstr ""
+
+#: classes/class-wdpsn-locationmetabox.php:87
+msgid "Custom rules"
+msgstr ""
+
+#: classes/class-wdpsn-locationmetabox.php:88
+msgid "Define custom rules about where notes of this type can be displayed."
+msgstr ""
+
+#: classes/class-wdpsn-locationmetabox.php:92
+msgid "Show, if:"
+msgstr ""
+
+#: classes/class-wdpsn-metaboxbuilder.php:277
+msgid "This is an example preview - all single notes in this type will be styled in this colors. You can choose from four built-in different color schemes, or create new, custom ones with colorpicker below (choose the \"Custom\" option first in the field above)."
+msgstr ""
+
+#: classes/class-wdpsn-metaboxbuilder.php:384
+msgid "Or"
+msgstr ""
+
+#: classes/class-wdpsn-metaboxbuilder.php:466
+msgid "Add tag title above"
+msgstr ""
+
+#: classes/class-wdpsn-noteslistpage.php:27, classes/class-wdpsn-noteslistpage.php:28, classes/class-wdpsn-noteslistpage.php:58
+msgid "All Notes"
+msgstr ""
+
+#: classes/class-wdpsn-noteslistpage.php:251
+msgid "note removed correctly."
+msgstr ""
+
+#: classes/class-wdpsn-noteslistpage.php:251
+msgid "notes removed correctly."
+msgstr ""
+
+#: classes/class-wdpsn-noteslistpage.php:253, classes/class-wdpsn-noteslistpage.php:267
+msgid "Dismiss this notice."
+msgstr ""
+
+#: classes/class-wdpsn-noteslistpage.php:265
+msgid "Couldn't remove following notes:"
+msgstr ""
+
+#: classes/class-wdpsn-noteslisttable.php:95
+msgid "Note ID"
+msgstr ""
+
+#: classes/class-wdpsn-noteslisttable.php:96
+msgid "Note"
+msgstr ""
+
+#: classes/class-wdpsn-noteslisttable.php:97
+msgid "Note type"
+msgstr ""
+
+#: classes/class-wdpsn-noteslisttable.php:98
+msgid "Added where?"
+msgstr ""
+
+#: classes/class-wdpsn-noteslisttable.php:99
+msgid "Added by"
+msgstr ""
+
+#: classes/class-wdpsn-noteslisttable.php:123, classes/class-wdpsn-singlenotes.php:407
+msgid "Delete"
+msgstr ""
+
+#: classes/class-wdpsn-notify.php:131
+msgid "Note ID:"
+msgstr ""
+
+#: classes/class-wdpsn-notify.php:135
+msgid "There's a new update for note, with ID"
+msgstr ""
+
+#: classes/class-wdpsn-notify.php:210
+msgid "Hi"
+msgstr ""
+
+#: classes/class-wdpsn-notify.php:224
+msgid "You received this email because you are listed as Owner of notes of this type, and \"Notify Owners\" option is enabled for notes of this type."
+msgstr ""
+
+#: classes/class-wdpsn-notify.php:226
+msgid "You received this email because you are listed as Viewer of notes of this type, and \"Notify Viewers\" option is enabled for notes of this type."
+msgstr ""
+
+#: classes/class-wdpsn-notify.php:229
+msgid "Sent by Super Notes plugin."
+msgstr ""
+
+#: classes/class-wdpsn-notify.php:244
+msgid "New note added - Super Notes"
+msgstr ""
+
+#: classes/class-wdpsn-notify.php:247
+msgid "Note updated - Super Notes"
+msgstr ""
+
+#: classes/class-wdpsn-notify.php:250
+msgid "Note deleted - Super Notes"
+msgstr ""
+
+#: classes/class-wdpsn-ownersmetabox.php:23
+msgid "Owners - who can manage notes of this type?"
+msgstr ""
+
+#: classes/class-wdpsn-ownersmetabox.php:28
+msgid "No-one will be able to add, edit and remove notes of this type."
+msgstr ""
+
+#: classes/class-wdpsn-ownersmetabox.php:29
+msgid "<span>1 user</span> will be able to add, edit and remove notes of this type."
+msgstr ""
+
+#. translators: Number of users with availability granted.
+#: classes/class-wdpsn-ownersmetabox.php:32
+msgid "<span>%d users</span> will be able to add, edit and remove notes of this type."
+msgstr ""
+
+#: classes/class-wdpsn-ownersmetabox.php:87, classes/class-wdpsn-tagmoderatorsmetabox.php:87, classes/class-wdpsn-viewersmetabox.php:87
+msgid "Everyone can?"
+msgstr ""
+
+#: classes/class-wdpsn-ownersmetabox.php:88
+msgid "Can everyone add, edit and remove notes of this type?"
+msgstr ""
+
+#: classes/class-wdpsn-ownersmetabox.php:92
+msgid "Yes, everyone can add, edit and remove notes of this type"
+msgstr ""
+
+#: classes/class-wdpsn-ownersmetabox.php:93
+msgid "No, not everyone can add, edit and remove notes of this type"
+msgstr ""
+
+#: classes/class-wdpsn-ownersmetabox.php:98, classes/class-wdpsn-tagmoderatorsmetabox.php:131
+msgid "So who can?"
+msgstr ""
+
+#: classes/class-wdpsn-ownersmetabox.php:99
+msgid "Define custom rules about who can add, edit and remove notes of this type."
+msgstr ""
+
+#: classes/class-wdpsn-ownersmetabox.php:103, classes/class-wdpsn-tagmoderatorsmetabox.php:136, classes/class-wdpsn-viewersmetabox.php:120
+msgid "Allow, if:"
+msgstr ""
+
+#: classes/class-wdpsn-popup.php:229
+msgid "Note added successfuly."
+msgstr ""
+
+#: classes/class-wdpsn-popup.php:276
+msgid "Note updated successfuly."
+msgstr ""
+
+#: classes/class-wdpsn-popup.php:311, classes/class-wdpsn-postnotessummary.php:165
+msgid "Note successfuly deleted."
+msgstr ""
+
+#: classes/class-wdpsn-popupcontent.php:69
+msgid "Choose the note type:"
+msgstr ""
+
+#: classes/class-wdpsn-popupcontent.php:95
+msgid "Note tags:"
+msgstr ""
+
+#: classes/class-wdpsn-popupcontent.php:140
+msgid "Add tag"
+msgstr ""
+
+#: classes/class-wdpsn-postnotessummary.php:174
+msgid "Couldn't delete selected note."
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:25, classes/class-wdpsn-posttypes.php:43
+msgid "Note Type"
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:28, classes/class-wdpsn-posttypes.php:51
+msgid "Note Types"
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:46
+msgid "Add new Note Type"
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:47
+msgid "Add New Note Type"
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:48
+msgid "New Note Type"
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:49
+msgid "Edit Note Type"
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:50
+msgid "View Note Type"
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:52
+msgid "Search Note Types"
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:53
+msgid "No Note Types found."
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:54
+msgid "No Note Types found in Trash."
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:85, classes/class-wdpsn-posttypes.php:86
+msgid "Tag"
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:87, classes/class-wdpsn-posttypes.php:88, classes/class-wdpsn-posttypes.php:94
+msgid "Tags"
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:89
+msgid "Add new Tag"
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:90
+msgid "Add New Tag"
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:91
+msgid "New Tag"
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:92
+msgid "Edit Tag"
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:93
+msgid "View Tag"
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:95
+msgid "Search Tags"
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:96
+msgid "No Tags found."
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:97
+msgid "No Tags found in Trash."
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:120, classes/class-wdpsn-posttypes.php:123
+msgid "Note Type updated."
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:121, classes/class-wdpsn-posttypes.php:139
+msgid "Custom field updated."
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:122, classes/class-wdpsn-posttypes.php:140
+msgid "Custom field deleted."
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:125
+msgid "Note Type published."
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:126
+msgid "Note Type saved."
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:127
+msgid "Note Type submitted."
+msgstr ""
+
+#. translators: Note Type scheduled date.
+#: classes/class-wdpsn-posttypes.php:130
+msgid "Note Type scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:130, classes/class-wdpsn-posttypes.php:148
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:131
+msgid "Note Type draft updated."
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:138, classes/class-wdpsn-posttypes.php:141
+msgid "Tag updated."
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:143
+msgid "Tag published."
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:144
+msgid "Tag saved."
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:145
+msgid "Tag submitted."
+msgstr ""
+
+#. translators: Tag scheduled date.
+#: classes/class-wdpsn-posttypes.php:148
+msgid "Tag scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: classes/class-wdpsn-posttypes.php:149
+msgid "Tag draft updated."
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:64
+msgid "created this note"
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:76
+msgid "created new note"
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:131
+msgid "notify owners & viewers rules"
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:135
+msgid "notify owners rule"
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:139
+msgid "notify viewers rule"
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:159
+msgid "updated this note."
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:161
+msgid "updated"
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:169
+msgid "for this note."
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:192
+msgid "deleted note with ID:"
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:211, classes/class-wdpsn-singlenotes.php:218
+msgid "and"
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:401
+msgid "Edit"
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:514, classes/notes-popup/template-add-note.php:14
+msgid "Add new note"
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:534
+msgid "Couldn't find location identifier."
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:538
+msgid "Notes are not available for this element."
+msgstr ""
+
+#. translators: Post type singular name.
+#: classes/class-wdpsn-singlenotes.php:556
+msgid "Save or publish this %s to manage notes."
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:562
+msgid "Save or publish to manage notes."
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:612
+msgid "with"
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:612, classes/class-wdpsn-singlenotes.php:616, classes/class-wdpsn-singlenotes.php:633
+msgid "tag"
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:612, classes/class-wdpsn-singlenotes.php:616, classes/class-wdpsn-singlenotes.php:633
+msgid "tags"
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:616
+msgid "added"
+msgstr ""
+
+#: classes/class-wdpsn-singlenotes.php:633
+msgid "deleted"
+msgstr ""
+
+#: classes/class-wdpsn-stylesmetabox.php:23
+msgid "Style - what color notes of this type should use?"
+msgstr ""
+
+#: classes/class-wdpsn-stylesmetabox.php:76
+msgid "Colors"
+msgstr ""
+
+#: classes/class-wdpsn-stylesmetabox.php:77
+msgid "Choose color scheme for notes of this type."
+msgstr ""
+
+#: classes/class-wdpsn-stylesmetabox.php:81
+msgid "Alert"
+msgstr ""
+
+#: classes/class-wdpsn-stylesmetabox.php:82
+msgid "Error"
+msgstr ""
+
+#: classes/class-wdpsn-stylesmetabox.php:83
+msgid "Info"
+msgstr ""
+
+#: classes/class-wdpsn-stylesmetabox.php:84
+msgid "Success"
+msgstr ""
+
+#: classes/class-wdpsn-stylesmetabox.php:85
+msgid "Custom"
+msgstr ""
+
+#: classes/class-wdpsn-stylesmetabox.php:90
+msgid "Custom color"
+msgstr ""
+
+#: classes/class-wdpsn-stylesmetabox.php:91
+msgid "Choose the custom color for notes of this type."
+msgstr ""
+
+#: classes/class-wdpsn-tagcolormetabox.php:23
+msgid "Color - what color this tag should use?"
+msgstr ""
+
+#: classes/class-wdpsn-tagcolormetabox.php:76
+msgid "Tag preview"
+msgstr ""
+
+#: classes/class-wdpsn-tagcolormetabox.php:77
+msgid "This is a preview how this tag will looks like."
+msgstr ""
+
+#: classes/class-wdpsn-tagcolormetabox.php:86
+msgid "Tag color"
+msgstr ""
+
+#: classes/class-wdpsn-tagcolormetabox.php:87
+msgid "Choose color for this tag."
+msgstr ""
+
+#: classes/class-wdpsn-tagcolormetabox.php:93
+msgid "Tag text color"
+msgstr ""
+
+#: classes/class-wdpsn-tagcolormetabox.php:94
+msgid "Choose text color for this tag."
+msgstr ""
+
+#: classes/class-wdpsn-tagmoderatorsmetabox.php:23
+msgid "Moderators - who can add or remove this tag to single notes?"
+msgstr ""
+
+#: classes/class-wdpsn-tagmoderatorsmetabox.php:28
+msgid "No-one will be able to add or remove this tag to single notes."
+msgstr ""
+
+#: classes/class-wdpsn-tagmoderatorsmetabox.php:29
+msgid "<span>1 user</span> will be able to add or remove this tag to single notes."
+msgstr ""
+
+#. translators: Number of users with availability granted.
+#: classes/class-wdpsn-tagmoderatorsmetabox.php:32
+msgid "<span>%d users</span> will be able to add or remove this tag to single notes."
+msgstr ""
+
+#: classes/class-wdpsn-tagmoderatorsmetabox.php:88
+msgid "Can everyone add or remove this tag to single notes?"
+msgstr ""
+
+#: classes/class-wdpsn-tagmoderatorsmetabox.php:92
+msgid "Yes, everyone can add or remove this tag to single notes"
+msgstr ""
+
+#: classes/class-wdpsn-tagmoderatorsmetabox.php:93
+msgid "No, not everyone can add or remove this tag to single notes"
+msgstr ""
+
+#: classes/class-wdpsn-tagmoderatorsmetabox.php:98
+msgid "So maybe note-type Owners and/or Viewers can?"
+msgstr ""
+
+#: classes/class-wdpsn-tagmoderatorsmetabox.php:99
+msgid "Can note-type Owners and/or Viewers add or remove this tag to single notes?"
+msgstr ""
+
+#: classes/class-wdpsn-tagmoderatorsmetabox.php:103
+msgid "Yes, show detailed selector"
+msgstr ""
+
+#: classes/class-wdpsn-tagmoderatorsmetabox.php:114
+msgid "Choose details"
+msgstr ""
+
+#: classes/class-wdpsn-tagmoderatorsmetabox.php:115
+msgid "Choose who can add or remove this tag to single notes, so this will depends on \"Note Type\" that this tag is added to."
+msgstr ""
+
+#: classes/class-wdpsn-tagmoderatorsmetabox.php:119
+msgid "Owners and Viewers of \"Note type\""
+msgstr ""
+
+#: classes/class-wdpsn-tagmoderatorsmetabox.php:120
+msgid "Owners of \"Note type\""
+msgstr ""
+
+#: classes/class-wdpsn-tagmoderatorsmetabox.php:121
+msgid "Viewers of \"Note type\""
+msgstr ""
+
+#: classes/class-wdpsn-tagmoderatorsmetabox.php:132
+msgid "Define custom rules about who can add or remove this tag to single notes."
+msgstr ""
+
+#: classes/class-wdpsn-viewersmetabox.php:23
+msgid "Viewers - who can view notes of this type?"
+msgstr ""
+
+#: classes/class-wdpsn-viewersmetabox.php:28
+msgid "No-one will be able to view notes of this type."
+msgstr ""
+
+#: classes/class-wdpsn-viewersmetabox.php:29
+msgid "<span>1 user</span> will be able to view notes of this type."
+msgstr ""
+
+#. translators: Number of users with availability granted.
+#: classes/class-wdpsn-viewersmetabox.php:32
+msgid "<span>%d users</span> will be able to view notes of this type."
+msgstr ""
+
+#: classes/class-wdpsn-viewersmetabox.php:88
+msgid "Can everyone see notes of this type?"
+msgstr ""
+
+#: classes/class-wdpsn-viewersmetabox.php:92
+msgid "Yes, everyone can see notes of this type"
+msgstr ""
+
+#: classes/class-wdpsn-viewersmetabox.php:93
+msgid "No, not everyone can see notes of this type"
+msgstr ""
+
+#: classes/class-wdpsn-viewersmetabox.php:98
+msgid "So maybe only Owners can?"
+msgstr ""
+
+#: classes/class-wdpsn-viewersmetabox.php:99
+msgid "Owners are defined above. Should they be the only viewers of notes of this type?"
+msgstr ""
+
+#: classes/class-wdpsn-viewersmetabox.php:100
+msgid "<strong>This mean:</strong> if one user (one of Owners defined above) add a note, then all other Owners can see this note (not only the user who created this note)."
+msgstr ""
+
+#: classes/class-wdpsn-viewersmetabox.php:104
+msgid "Yes, only Owners can see notes of this type"
+msgstr ""
+
+#: classes/class-wdpsn-viewersmetabox.php:105
+msgid "No, I want to define custom rules"
+msgstr ""
+
+#: classes/class-wdpsn-viewersmetabox.php:115
+msgid "Ok, so who can?"
+msgstr ""
+
+#: classes/class-wdpsn-viewersmetabox.php:116
+msgid "Define custom rules about who can see notes of this type."
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:27, classes/class-wdpsn-welcomepage.php:43
+msgid "Super Notes - Welcome"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:44
+msgid "Welcome"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:69
+msgid "Thank you for using Super Notes!"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:70
+msgid "This plugin allows you to add custom notes to any posts, pages, users, media elements, plugins and even more different elements. It comes with great customization options, and allows you to configure custom rules, choose notes locations and user permissions for any type of note."
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:71
+msgid "Super Notes plugin is developed and maintained by"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:74, classes/class-wdpsn-welcomepage.php:81
+msgid "How to add notes?"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:75, classes/class-wdpsn-welcomepage.php:96
+msgid "What are \"Note Types\"?"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:76, classes/class-wdpsn-welcomepage.php:108
+msgid "Can I see all notes summary?"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:77, classes/class-wdpsn-welcomepage.php:114
+msgid "Premium features"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:78, classes/class-wdpsn-welcomepage.php:137
+msgid "Thank you!"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:83
+msgid "Before you can add notes, you'll need to create \"Note Type\". Depending on the plugin plan you use, you can add one Note Type in free plugin plan, and unlimited in Premium plan. <a href=\"#what-are-note-types\">More about Note Types</a> can be found below."
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:84
+msgid "When your Note Type is correctly configured and published, you can add new note in the locations selected for this Note Type. Simply click on \"Show\" button near the element you want assign note to, and create your note."
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:88
+msgid "You can also add notes to global location, which means it will be always available after click on top admin bar element:"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:92
+msgid "And of course, you can manage notes assigned to single post, page and other elements in \"Edit\" screen of this element:"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:98
+msgid "Note Types allows you to create different categories (types) for notes you want to use on your website."
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:100
+msgid "Let's suppose that you have some users with \"Author\" role that publish posts on your website. You can create \"Authors Notes\" Note Type, and assign all users with \"Author\" role to see notes in this Note Type. This gives you the possibility to <strong>display notes for specific users only</strong>."
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:101
+msgid "Another example - let's say that you have dozens of plugins installed on your website. Some of them may require special attention, and it's important to not forget about some tasks every now and then. You can handle it with this plugin - simply create Note Type and configure \"location\" option to allow adding single notes to plugins only!"
+msgstr ""
+
+#. translators: Note Types page
+#: classes/class-wdpsn-welcomepage.php:106
+msgid "Custom users permissions and location rules can be combined, so you can create unlimited combinations of Note Types in premium plugin plan. Feel free to go to %s and play with different configuration options to find out what fits you well :)"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:106
+msgid "Note Types page"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:110
+msgid "Sure you can! :) Simply go to \"Super Notes\" - \"All notes\" page and preview all notes with \"Viewer\" role permission granted to you. This means that you will not see notes assigned to Note Type where you are not listed as \"Viewer\", even if you are website administrator."
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:118
+msgid "With premium plugin plan you're able to <strong>create unlimited Note Types</strong>, so any notes can be well organized and displayed only to proper users. But that's not the only premium feature! There's more:"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:121
+msgid "Assign Tags to single notes"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:122
+msgid "create unlimited tags and assign it to single notes"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:126
+msgid "Notify note Owners and/or Viewers about note updates"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:127
+msgid "Send a short email notification about any note content, settings or assigned tags changes, right to Owners and/or Viewers emails. Custom options for that can be configured for each notes separately."
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:131
+msgid "Access to high-quality support"
+msgstr ""
+
+#. translators: Support e-mail address
+#: classes/class-wdpsn-welcomepage.php:133
+msgid "With a valid premium license you're also getting an access to our premium support. Have any questions or problems with this plugin? Feel free to email us at %s, we'll help as fast as possible :)"
+msgstr ""
+
+#. translators: Twitter account & contact e-mail address
+#: classes/class-wdpsn-welcomepage.php:139
+msgid "Huge thanks for using our plugin! We hope you like it - if you have any thoughts or feature ideas, feel free to share it with us. %1$s, %2$s or add a comment in plugin page on WordPress repository."
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:139
+msgid "Find us on Twitter"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:139
+msgid "write an email"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:166
+msgid "Install dummy-data"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:167
+msgid "Click on the button bellow to install example Note Type and add one example note. This could help you getting started!"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:175, classes/class-wdpsn-welcomepage.php:176
+msgid "We Do Plugins"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:176
+msgid "Check our other plugins!"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:206
+msgid "You're using free plugin plan now - premium features are <strong>not available</strong>. Upgrade now to get access to direct support and premium features!"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:208
+msgid "You're using premium plugin plan now - premium features are <strong>available</strong>. Thank you for supporting us!"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:227
+msgid "Summary"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:233
+msgid "You're using <strong>free</strong> plugin plan."
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:237
+msgid "You're using <strong>premium</strong> plugin plan."
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:241
+msgid "Upgrate to premium"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:241
+msgid "to unlock more amazing features and get access to support."
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:243
+msgid "Thank you for being a premium user!"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:243
+msgid "Have any questions? Feel free to contact us at"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:271
+msgid "Main notes"
+msgstr ""
+
+#: classes/class-wdpsn-welcomepage.php:295
+msgid "Hey! I am an example note - you can edit or delete me :)"
+msgstr ""
+
+#: classes/notes-popup/template-add-note.php:15, classes/notes-popup/template-edit-note.php:18
+msgid "Cancel"
+msgstr ""
+
+#: classes/notes-popup/template-add-note.php:41, classes/notes-popup/template-edit-note.php:45
+msgid "Notify all Owners about this note?"
+msgstr ""
+
+#: classes/notes-popup/template-add-note.php:47, classes/notes-popup/template-edit-note.php:51
+msgid "Yes, notify all Owners"
+msgstr ""
+
+#: classes/notes-popup/template-add-note.php:48, classes/notes-popup/template-add-note.php:63, classes/notes-popup/template-edit-note.php:52, classes/notes-popup/template-edit-note.php:67
+msgid "No, it's not necessary"
+msgstr ""
+
+#: classes/notes-popup/template-add-note.php:56, classes/notes-popup/template-edit-note.php:60
+msgid "Notify all Viewers about this note?"
+msgstr ""
+
+#: classes/notes-popup/template-add-note.php:62, classes/notes-popup/template-edit-note.php:66
+msgid "Yes, notify all Viewers"
+msgstr ""
+
+#: classes/notes-popup/template-add-note.php:76
+msgid "Add note"
+msgstr ""
+
+#: classes/notes-popup/template-edit-note.php:14
+msgid "Edit note"
+msgstr ""
+
+#: classes/notes-popup/template-edit-note.php:83
+msgid "Save changes"
+msgstr ""
+
+#: classes/notes-popup/template-notes-preview.php:17
+msgid "Notes preview"
+msgstr ""
